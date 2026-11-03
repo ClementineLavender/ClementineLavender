@@ -1,4 +1,4 @@
-👋 Hi, I’m ClementineLavender
+👋 Hi, I’m ClementineLavender, but my friends call me Nataliia!
 
 Junior Fullstack Developer | React | Node.js  
 
